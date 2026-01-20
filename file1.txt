@@ -1,1 +1,3 @@
 Experiment 2 : git commands 
+
+give commands in git bash
